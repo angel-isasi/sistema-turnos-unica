@@ -1,6 +1,6 @@
 # Sistema de Turnos UNICA
 
-A queue and appointment management system for university administrative services at Universidad Nacional San Luis Gonzaga (UNICA), built for the Advanced Programming course (2026). I worked as the frontend developer and system architect.
+A queue and appointment management system for university administrative services at Universidad Nacional San Luis Gonzaga (UNICA), built for the Advanced Programming course (2026). I designed and built the entire system: frontend, backend and architecture.
 
 ## What it does
 
