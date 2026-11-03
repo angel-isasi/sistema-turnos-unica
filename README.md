@@ -13,10 +13,12 @@ A queue and appointment management system for university administrative services
 
 👉 https://sistema-turnos-unica.vercel.app
 
+> **Note:** the backend previously deployed on Railway is currently offline and is being reimplemented. The live demo shows the frontend only; login and data features won't work until the new backend is deployed. You can still run the full system locally (see below).
+
 ## Tech stack
 
 - **Frontend:** React 19, Vite, React Router, Tailwind CSS v4, shadcn/ui, Lucide icons — deployed on Vercel
-- **Backend:** Python, FastAPI, SQLAlchemy, MySQL, PyJWT, bcrypt, SlowAPI — deployed on Railway
+- **Backend:** Python, FastAPI, SQLAlchemy, MySQL, PyJWT, bcrypt, SlowAPI. Being reimplemented (previous Railway deployment is offline)
 
 ## Run locally
 
